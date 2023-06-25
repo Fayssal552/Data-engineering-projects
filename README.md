@@ -5,7 +5,7 @@ In this project, I have built an end-to-end streaming pipeline using Spark, Kafk
 
 **Services used in this project :** Apache Spark, apache Kafka and apache Cassandra
 
-Link: [End-to-End Streaming Project](https://github.com/Fayssal552/Data-engineering-projects/blob/main/Spark-Kafka-Cassandra%20_%20End-to-End%20Streaming%20Project/End-to-End_Streaming_Project_with_Spark_Kafka_and_Cassandra.pdf)
+Link: [End-to-End Streaming Project](https://prickly-chipmunk-831.notion.site/Building-an-End-to-End-Streaming-Project-with-Spark-Kafka-and-Cassandra-0e78d35c0bf24c4fbc43285d357ef7f6?pvs=4)
 
 
 ## Project 2: YouTube Analysis Project with S3, Glue, Lambda, Athena, IAM and QuickSight
@@ -18,5 +18,5 @@ This project encompasses the following key tasks:
 
 **Services used in this project :** S3, Glue, Lambda, Athena, IAM and QuickSight
 
-Link: [YouTube Analysis Project](https://github.com/Fayssal552/Data-engineering-projects/blob/main/YouTube-Analysis-Project/YouTube_Data_Analysis.pdf)
+Link: [YouTube Analysis Project](https://prickly-chipmunk-831.notion.site/YouTube-Data-Analysis-933e10620cb6448fb9493c439ef4cbcc?pvs=4)
 
