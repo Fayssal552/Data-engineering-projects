@@ -20,3 +20,12 @@ This project encompasses the following key tasks:
 
 Link: [YouTube Analysis Project](https://prickly-chipmunk-831.notion.site/YouTube-Data-Analysis-933e10620cb6448fb9493c439ef4cbcc?pvs=4)
 
+## Project 3: Snowflake integration with S3
+
+
+In this project, I have created a data pipeline to import YouTube video data using Snowflake and AWS S3. The pipeline involves setting up a database, schema, storage integration, stage, and table in Snowflake. The YouTube video data, stored in a CSV file, is copied into the Snowflake table for further analysis. This project enables efficient data processing and exploration of YouTube video statistics using Snowflake's powerful analytics capabilities.
+
+**Services used in this project :** Snowflake, S3, IAM
+
+Link to the project : [Snowflake integration with S3](https://prickly-chipmunk-831.notion.site/YouTube-Data-Analysis-933e10620cb6448fb9493c439ef4cbcc?pvs=4)
+Link to the resources : [Resources](https://prickly-chipmunk-831.notion.site/YouTube-Data-Analysis-933e10620cb6448fb9493c439ef4cbcc?pvs=4)
