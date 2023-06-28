@@ -27,5 +27,5 @@ In this project, I have created a data pipeline to import YouTube video data usi
 
 **Services used in this project :** Snowflake, S3, IAM
 
-Link to the project : [Snowflake integration with S3](https://prickly-chipmunk-831.notion.site/YouTube-Data-Analysis-933e10620cb6448fb9493c439ef4cbcc?pvs=4)
-Link to the resources : [Resources](https://prickly-chipmunk-831.notion.site/YouTube-Data-Analysis-933e10620cb6448fb9493c439ef4cbcc?pvs=4)
+Link to the project : [Snowflake integration with S3](https://prickly-chipmunk-831.notion.site/Snowflake-integration-with-S3-072ec3c5dfb54bc7ad9465053e76e95d?pvs=4)
+Link to the resources : [Resources](https://github.com/Fayssal552/Data-engineering-projects/tree/main/Snowflake-integration-with-S3)
