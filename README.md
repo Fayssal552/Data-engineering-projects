@@ -29,3 +29,13 @@ In this project, I have created a data pipeline to import YouTube video data usi
 
 Link to the project : [Snowflake integration with S3](https://prickly-chipmunk-831.notion.site/Snowflake-integration-with-S3-072ec3c5dfb54bc7ad9465053e76e95d?pvs=4)
 Link to the resources : [Resources](https://github.com/Fayssal552/Data-engineering-projects/tree/main/Snowflake-integration-with-S3)
+
+## Project 4: Building Spotify ETL Using Python
+
+
+This is a beginner-friendly project aimed at building a simple pipeline. We will utilize Spotify's API to retrieve data, perform basic transformations, and conduct Data Quality checks. Finally, we will load the processed data into a SQLite database.
+
+**Services used in this project :** Spotify API, Python, SQLite
+
+Link to the project : [Snowflake integration with S3](https://prickly-chipmunk-831.notion.site/Building-Spotify-ETL-Using-Python-7cf2802e18bb4cf5961dfa7b3946b757?pvs=4)
+Link to the resources : [Resources](https://github.com/Fayssal552/Data-engineering-projects/tree/main/Spotify_etl)
