@@ -1,0 +1,9 @@
+{
+    "aws_secret_access_key": "",
+    "aws_access_key_id":"",
+    "service_name":"s3",
+    "region_name":"us-east-1",
+    "bucket_name":"apache-airflow-pipeline-postgres-to-s3",
+    "file_name":"data_university.csv"
+    
+    }
