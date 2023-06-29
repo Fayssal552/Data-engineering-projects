@@ -50,6 +50,10 @@ def get_recently_played_tracks(sp):
 
     return df
 
+def return_dataframe():
+    spotify_client = get_spotify_client()
+    df = get_recently_played_tracks(spotify_client)
+    return df
 spotify_client = get_spotify_client()
 recently_played_df = get_recently_played_tracks(spotify_client)
 print(recently_played_df)
