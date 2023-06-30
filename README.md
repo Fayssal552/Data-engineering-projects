@@ -39,3 +39,13 @@ This is a beginner-friendly project aimed at building a simple pipeline. We will
 
 Link to the project : [Snowflake integration with S3](https://prickly-chipmunk-831.notion.site/Building-Spotify-ETL-Using-Python-7cf2802e18bb4cf5961dfa7b3946b757?pvs=4)
 Link to the resources : [Resources](https://github.com/Fayssal552/Data-engineering-projects/tree/main/Spotify_etl)
+
+## Project 5: ETL Pipeline with Airflow: API Data to PostgreSQL, S3, and Athena Integration
+
+
+In this project, you will use apache airflow to build an ETL pipeline , store the result on a PostgreSQL running on docker. After that, we are going to upload the data on AWS s3 and use Amazon Athena to run queries on top of my CSV file there by adding a Crawler. There are two DAGs. The first one is used to fetch data from API and send it to postgreSQL. After the data is sent to PostgreSQL a trigger mechanism is run and trigger dag 2. Dag 2 gets data from PostgreSQL and send it to S3 bucket as csv file.
+
+**Services used in this project :** API, ETL Pipline, Airflow, PostgreSQL, S3, IAM, Glue, Athena
+
+Link to the project : [Snowflake integration with S3](https://prickly-chipmunk-831.notion.site/ETL-Pipeline-with-Airflow-API-Data-to-PostgreSQL-S3-and-Athena-Integration-004311433d4344fd86ab82bceb6e6fc1?pvs=4)
+Link to the resources : [Resources](https://github.com/Fayssal552/Data-engineering-projects/tree/main/Airflow_ETL_Postgres_to_S3)
