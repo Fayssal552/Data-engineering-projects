@@ -43,7 +43,7 @@ Link to the resources : [Resources](https://github.com/Fayssal552/Data-engineeri
 ## Project 5: ETL Pipeline with Airflow: API Data to PostgreSQL, S3, and Athena Integration
 
 
-In this project, I utilized Apache Airflow to construct an ETL pipeline and store the resulting data on a Dockerized PostgreSQL database. Following that, I uploaded the data to AWS S3 and use Amazon Athena to run queries on top of my CSV file there by adding a Crawler. There are two DAGs. The first one is used to fetch data from API and send it to postgreSQL. After the data is sent to PostgreSQL a trigger mechanism is run and trigger dag 2. Dag 2 gets data from PostgreSQL and send it to S3 bucket as csv file.
+In this project, I utilized Apache Airflow to automate the ETL pipeline. The process involved extracting data from an API, transforming it, and then loading it into a Dockerized PostgreSQL database. Subsequently, the data was uploaded to AWS S3 for storage. And use Amazon Athena to run queries on top of my CSV file there by adding a Crawler. There are two DAGs. The first one is used to fetch data from API and send it to postgreSQL. After the data is sent to PostgreSQL a trigger mechanism is run and trigger dag 2. Dag 2 gets data from PostgreSQL and send it to S3 bucket as csv file.
 
 **Services used in this project :** API, ETL Pipline, Airflow, PostgreSQL, S3, IAM, Glue, Athena
 
